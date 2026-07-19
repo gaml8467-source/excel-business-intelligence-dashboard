@@ -1,41 +1,41 @@
 # 📊 E-Commerce Business Intelligence Dashboard
 
-A complete Business Intelligence project built with Microsoft Excel, Power Query, Power Pivot, and DAX.
+An interactive Business Intelligence solution built using **Microsoft Excel**, **Power Query**, **Power Pivot**, and **DAX** to transform raw e-commerce data into meaningful business insights.
 
-The project transforms raw e-commerce data into interactive dashboards that provide meaningful business insights for decision-making.
+This project focuses on answering real business questions through interactive dashboards and KPI-driven analysis, using the **Looker E-Commerce BigQuery Dataset**. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🚀 Dashboards
+# 🚀 Project Overview
 
-### Executive Overview
+The project consists of **three interactive dashboards** that provide a complete view of business performance.
 
+## 📈 Executive Overview
 - Sales KPIs
-- Revenue Trend
-- Order Status
+- Revenue Trends
+- Orders Analysis
 - Sales by Country
+- Order Status Distribution
 
-### Inventory & Product Analytics
-
+## 📦 Inventory & Product Analytics
 - Product Performance
 - Brand Analysis
 - Department Analysis
-- Distribution Centers
+- Distribution Center Performance
 - Inventory KPIs
 - Profit Analysis
 
-### Customer & Behavior Analytics
-
+## 👥 Customer & Behavior Analytics
 - Customer Demographics
 - User Behavior
+- Traffic Source Analysis
 - Website Events
-- Traffic Sources
 - Customer Journey
 - Engagement Metrics
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 - Microsoft Excel
 - Power Query
@@ -47,7 +47,9 @@ The project transforms raw e-commerce data into interactive dashboards that prov
 
 ---
 
-## 📸 Dashboard Preview
+# 📸 Dashboard Preview
+
+> Add your dashboard screenshots inside the **Images** folder and update the image names below.
 
 ### Home
 
@@ -55,34 +57,59 @@ The project transforms raw e-commerce data into interactive dashboards that prov
 
 ### Executive Overview
 
-![Executive](Images/Executive%20Overview.png)
+![Executive Overview](Images/Executive%20Overview.png)
 
 ### Inventory & Product Analytics
 
-![Inventory](Images/Inventory%20&%20Product%20Analytics.png)
+![Inventory](Images/Inventory%20%26%20Product%20Analytics.png)
 
 ### Customer & Behavior Analytics
 
-![Customer](Images/Customer%20&%20Behavior%20Analytics.png)
+![Customer](Images/Customer%20%26%20Behavior%20Analytics.png)
 
 ---
 
-## 📂 Dataset
+# 📂 Dataset
 
-The dataset is larger than GitHub's recommended size.
+This project is based on the **Looker E-Commerce BigQuery Dataset** available on Kaggle. :contentReference[oaicite:1]{index=1}
 
-You can download it here:
+### 📥 Original Dataset (Kaggle)
 
-👉 kaggle:*https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset*
+https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset
+
+
+### 📁 Processed Dataset & Dashboard
+
+https://drive.google.com/drive/folders/1-0lIB7v9BgrqD7aWjbh_Xkglzf3ohUqi?usp=drive_link
+> **Note:** The Google Drive folder contains the processed dataset along with the complete Excel dashboard used in this project.
+
 ---
 
-## ⭐ Project Goal
-
-Build a Business Intelligence solution that answers real business questions such as:
+# 🎯 Business Questions Answered
 
 - How are sales changing over time?
-- Which products generate the highest revenue?
+- Which products and brands generate the highest revenue?
 - Who are the most valuable customers?
-- How do users behave before purchasing?
-- Which traffic sources perform best?
+- How do users behave before completing a purchase?
+- Which traffic sources drive the highest engagement?
+- How does inventory perform across distribution centers?
+
+---
+
+# ⭐ Repository Structure
+
+```
+E-Commerce-Business-Intelligence-Dashboard/
+│
+├── Dashboard/
+│   └── E-Commerce BI Dashboard.xlsx
+│
+├── Images/
+│   ├── Home.png
+│   ├── Executive Overview.png
+│   ├── Inventory & Product Analytics.png
+│   └── Customer & Behavior Analytics.png
+│
+└── README.md
+```
 

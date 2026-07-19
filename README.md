@@ -1,6 +1,7 @@
 # 📊 E-Commerce Business Intelligence Dashboard
 
-(https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/inventory%26Product.png)
+<img src="https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/inventory%26Product.png" width="900">
+
 
 
 An interactive Business Intelligence solution built using **Microsoft Excel**, **Power Query**, **Power Pivot**, and **DAX** to transform raw e-commerce data into meaningful business insights.

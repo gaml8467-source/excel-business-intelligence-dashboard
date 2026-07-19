@@ -1,5 +1,8 @@
 # 📊 E-Commerce Business Intelligence Dashboard
 
+(https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/inventory%26Product.png.png)
+
+
 An interactive Business Intelligence solution built using **Microsoft Excel**, **Power Query**, **Power Pivot**, and **DAX** to transform raw e-commerce data into meaningful business insights.
 
 This project focuses on answering real business questions through interactive dashboards and KPI-driven analysis, using the **Looker E-Commerce BigQuery Dataset**. :contentReference[oaicite:0]{index=0}
@@ -53,19 +56,19 @@ The project consists of **three interactive dashboards** that provide a complete
 
 ### Home
 
-![Home](Images/Home.png)
+![Home](https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/Home.png.png)
 
 ### Executive Overview
 
-![Executive Overview](Images/Executive%20Overview.png)
+![Executive Overview](https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/Overview%20.png.png)
 
 ### Inventory & Product Analytics
 
-![Inventory](Images/Inventory%20%26%20Product%20Analytics.png)
+![Inventory](https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/inventory%26Product.png.png)
 
 ### Customer & Behavior Analytics
 
-![Customer](Images/Customer%20%26%20Behavior%20Analytics.png)
+![Customer](https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/Customer%20%26%20Behavior%20Analytics.png.png)
 
 ---
 

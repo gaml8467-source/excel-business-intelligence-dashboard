@@ -56,20 +56,23 @@ The project consists of **three interactive dashboards** that provide a complete
 > Add your dashboard screenshots inside the **Images** folder and update the image names below.
 
 ### Home
+<img src="https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/Home.png" width="900">
 
-![Home](https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/Home.png.png)
 
 ### Executive Overview
+<img src="https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/Overview%20.png" width="900">
 
-![Executive Overview](https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/Overview%20.png.png)
 
 ### Inventory & Product Analytics
+<img src="https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/inventory%26Product.png" width="900">
 
-![Inventory](https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/inventory%26Product.png.png)
+
 
 ### Customer & Behavior Analytics
+<img src="https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/Customer%20%26%20Behavior%20Analytics.png" width="900">
 
-![Customer](https://raw.githubusercontent.com/gaml8467-source/excel-business-intelligence-dashboard/refs/heads/main/Photo/Customer%20%26%20Behavior%20Analytics.png.png)
+
+
 
 ---
 
